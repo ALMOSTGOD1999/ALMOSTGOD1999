@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Mukherjee
 - 👀 I’m interested in Ful Stack Dev.
 - 🌱 I’m currently learning Next JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any AI based Start-up
 - 📫 How to reach me 8617008081
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: A slim and foody coder.
